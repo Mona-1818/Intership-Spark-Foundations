@@ -1,2 +1,2 @@
 # Intership-Spark-Foundations
-EDA on sport data project for data science intern at The Sparks Foundation
+Data Science and buisness Analytics project for Grips Intership at The Spark Foundation.
